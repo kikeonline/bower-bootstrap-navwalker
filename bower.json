@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-navwalker",
+  "authors": [
+    "kikeonline <kike@shapps.com>"
+  ],
+  "description": "Custom wordpress Bootstrap 3.0+ navigation.",
+"main": [
+  "js/bootstrap.min.js",
+  "css/bootstrap.css",
+  "wp_bootstrap_navwalker.php"
+],
+  "keywords": [
+    "wordpress",
+    "bootstrap",
+    "navwalker"
+  ],
+  "license": "MIT",
+  "homepage": "kike.work",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
